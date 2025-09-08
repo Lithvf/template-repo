@@ -6,7 +6,7 @@ authors = ["<lithvf@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.9"
+python = "3.11.*"
 pandas = "^2.2.3"
 ipykernel = "^6.29.5"
 pylint = "^3.3.5"
