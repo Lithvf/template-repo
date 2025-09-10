@@ -2,7 +2,7 @@
 
 ## Project structure
 ```bash
-<project_name>/
+template-project/
 ├── README.md               # Project overview and instructions
 ├── config.yaml             # Configuration for model and features
 ├── poetry.lock             # Poetry lock file (dependencies)
@@ -14,8 +14,8 @@
 ## Installation
 
 ```bash
-git clone https://github.com/<user>/<project>.git
-cd <project>
+git clone https://github.com/template-user/template-project.git
+cd template-project
 pip install poetry
 poetry env use python
 poetry install

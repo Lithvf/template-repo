@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "ml-e"
+name = "template-project"
 version = "1"
 description = "hobby repository"
-authors = ["<lithvf@gmail.com>"]
+authors = ["template-user <user@example.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
